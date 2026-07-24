@@ -8,7 +8,7 @@ Also on here is [GamePoint](https://github.com/lemon-grab2021/gamepoint) an e-co
 
 Tech I work with: TypeScript, JavaScript, Python, Dart, SQL, NestJS, Flutter, PostgreSQL, Prisma, Docker, Git.
 
-📫 Get in touch: [LinkedIn](https://www.linkedin.com/in/prince-ukaoha-55726b2b6/) ukaohachinedu2004@gmail.com
+Get in touch: [LinkedIn](https://www.linkedin.com/in/prince-ukaoha-55726b2b6/) ukaohachinedu2004@gmail.com
 <!---
 lemon-grab2021/lemon-grab2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
