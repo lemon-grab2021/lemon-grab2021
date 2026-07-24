@@ -1,12 +1,12 @@
 Hi, I'm Prince 👋
 
-I'm a Computer Science Major who recently graduated from Aston University in july 2026 with a 2:1, interested in full-stack and backend development. I like working across the whole stack — database design, APIs, and the interface that sits on top of them.
+I'm a Computer Science Major who recently graduated from Aston University in july 2026 with a 2:1, interested in full-stack and backend development. I like working across the whole stack  database design, APIs, and the interface that sits on top of them.
 
 Currently working on Tether a full-stack community messaging platform built as my final year project, using Flutter, NestJS, PostgreSQL and WebSockets for real-time messaging.
 
 Also on here is GamePoint  an e-commerce site for gaming products, built with a team of 8 as a second-year group project.
 
-Tech I work with: TypeScript JavaScript Python Dart SQL · NestJS Flutter PostgreSQL Prisma · Docker Git
+Tech I work with: TypeScript, JavaScript, Python, Dart, SQL, NestJS, Flutter, PostgreSQL Prisma ,Docker, Git.
 
 📫 Get in touch: LinkedIn · ukaohachinedu2004@gmail.com
 <!---
