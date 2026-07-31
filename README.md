@@ -1,6 +1,6 @@
 Hi, I'm Prince 👋
 
-I'm a Computer Science Major who recently graduated from Aston University in July 2026, interested in full-stack and backend development. I like working across the whole stack  database design, APIs, and the interface that sits on top of them.
+I'm a Computer Science Graduate who recently graduated from Aston University in July 2026, interested in full-stack and backend development. I like working across the whole stack  database design, APIs, and the interface that sits on top of them.
 
 Currently working on [Tether](https://github.com/lemon-grab2021/tether) a full-stack community messaging platform built as my final year project, using Flutter, NestJS, PostgreSQL and WebSockets for real-time messaging.
 
